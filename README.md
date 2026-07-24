@@ -226,7 +226,7 @@ Always consult a qualified healthcare professional regarding medical conditions.
 
 # 👩‍💻 Author
 
-**Swetha R**
+**Swetha K**
 
 Data Analyst | Aspiring Data Scientist
 
